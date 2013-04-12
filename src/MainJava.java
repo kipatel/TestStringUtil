@@ -6,6 +6,7 @@ public class MainJava {
 	 
 	String hex = StringUtils.convertToHex("qeq".getBytes());
 	System.out.println("MainJava.main() "+hex);
+	
 }
 
 }
